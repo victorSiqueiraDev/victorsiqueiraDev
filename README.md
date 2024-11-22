@@ -1,6 +1,6 @@
 ## Oi meu nome é Victor! 👋
 
-✅ ursando Análise e Desenvolvimento de Sistemas.
+✅ Cursando Análise e Desenvolvimento de Sistemas.
 
 ✅ Formação em teste de software manual e automatizado.
 
