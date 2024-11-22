@@ -1,12 +1,10 @@
 ## Oi meu nome é Victor! 👋
 
-✅ Currently pursuing a degree in Systems Analysis and Development.
+✅ ursando Análise e Desenvolvimento de Sistemas.
 
-✅ Experience as an Administrative Assistant at Atlas Schindler, handling tasks that integrated organizational processes.
+✅ Formação em teste de software manual e automatizado.
 
-✅ Training in manual and automated software testing.
-
-✅ Practical and theoretical experience in developing technological solutions for diverse audiences.
+✅ Experiência prática e teórica em desenvolvimento de soluções tecnológicas para diferentes públicos.
 
 
 ## Social Midia 
