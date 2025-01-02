@@ -9,7 +9,7 @@
 
 ## Social Midia 
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/victorsiqueiradev/) 
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/victorsiqueiradev/)
 
 ![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=pink)(https://www.instagram.com/vitodgoo/)
 
@@ -30,21 +30,19 @@
 
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
-
 <br>
 
 
-<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" />
+<img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
 
-<img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" />
+<img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
+<img alt="Html" src="https://shields.io/badge/HTML-★★★★★-f06529?logo=html5&logoColor=white&labelColor=f06529" />
+
+<img alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
 
 <br>
 
-<img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white" />
-
-<img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white" />
 
 </div>
 
