@@ -54,6 +54,8 @@
 
 Análise e Desenvolvimento de Sistemas -Uninassau // Systems Analysis and Development - Uninassau
 
+FAST FrontEnd - Cesar School 
+
 Teste de Software Manuais e Automatizados - UDEMY // Manual and Automated Software Testing - UDEMY
 
 Testes Automatizados com Selenium - UDEMY // Automated Testing with Selenium - UDEMY
