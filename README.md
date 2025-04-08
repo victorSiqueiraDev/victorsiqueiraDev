@@ -1,8 +1,6 @@
 ## Oi meu nome é Victor! 👋
 
-✅ Cursando Análise e Desenvolvimento de Sistemas.
-
-✅ Formação em teste de software manual e automatizado.
+✅ Superior Completo em Análise e Desenvolvimento de Sistemas.
 
 ✅ Experiência prática e teórica em desenvolvimento de soluções tecnológicas para diferentes públicos.
 
@@ -52,15 +50,6 @@
 
 Análise e Desenvolvimento de Sistemas -Uninassau // Systems Analysis and Development - Uninassau
 
-FAST FrontEnd - Cesar School 
-
-Teste de Software Manuais e Automatizados - UDEMY // Manual and Automated Software Testing - UDEMY
-
-Testes Automatizados com Selenium - UDEMY // Automated Testing with Selenium - UDEMY
-
-Testes de Aplicações com Cypress - UDEMY // Application Testing with Cypress - UDEMY
-
-FAST FrontEnd - CesarSchool 
 
 
 
